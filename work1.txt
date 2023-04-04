@@ -4,3 +4,4 @@
 # reset = HEAD의 Branch를 바꾼다.
 6
 7
+9
